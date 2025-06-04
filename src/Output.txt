@@ -1,0 +1,392 @@
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 6
+Enter customer ID to view orders: 12
+
+=== List of Orders ===
+Order ID: 655
+Restaurant ID: 2
+Total Price: 106.68
+Order Status: Pending
+Delivery Address: Peelamedu covai
+
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 7
+Enter order ID to make payment: 12
+Enter amount to pay: 106.68
+Order not found
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 7
+Enter order ID to make payment: 655
+Enter amount to pay: 106.68
+Payment successful! Order is now confirmed.
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 7
+Enter order ID to make payment: 655
+Enter amount to pay: 106.68
+Payment successful! Order is now confirmed.
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 6
+Enter customer ID to view orders: 12
+
+=== List of Orders ===
+Order ID: 655
+Restaurant ID: 2
+Total Price: 106.68
+Order Status: Pending
+Delivery Address: Peelamedu covai
+
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+coder@dedfaafcaf326
+coder@dedfaafcaf326                               900158dabecdccdone-                               0:~/project/workspa
+coder@dedfaafcaf326900158dabecdccdone-0:~/project/
+coder@dedfaafcaf326900158dabecdccdone-0:~/project/workspace$  cd /home/coder/project/workspace ; /usr/bin/env /usr/lib/jvm/java-17-openjdk-amd64/bin/java @/tmp/cp_50y23su4rh52nkjj8kdnncha5.argfile com.examly.MainModule 
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 6
+Enter customer ID to view orders: 12
+
+=== List of Orders ===
+Order ID: 655
+Restaurant ID: 2
+Total Price: 106.68
+Order Status: Pending
+Delivery Address: Peelamedu covai
+
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 6
+Enter customer ID to view orders: 20
+No orders found for this customer.
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 5
+Enter customer ID: 20
+Enter restaurant ID to place order: 3
+No menu items available for this restaurant.
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 3
+Enter restaurant ID to add menu item: 3
+Enter menu item name: Pasta
+Enter menu item price: 2999
+Enter menu item description: Italian Cheese pasta
+Enter available quantity: 10
+Menu item created successfully!
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 5
+Enter customer ID: 20
+Enter restaurant ID to place order: 3
+
+ Menu Items
+Item ID: 4
+Name: Pasta
+Price: 2999.0
+Description: Italian Cheese pasta
+Available Quantity: 10
+
+Enter menu item ID to order: 4
+Enter quantity: 2
+Enter delivery address: Chennai
+Order placed successfully!
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 6
+Enter customer ID to view orders: 20
+
+=== List of Orders ===
+Order ID: 827
+Restaurant ID: 3
+Total Price: 5998.0
+Order Status: Pending
+Delivery Address: Chennai
+
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 7
+Enter order ID to make payment: 827
+Enter amount to pay: 5998
+Payment successful! Order is now confirmed.
+Order status updated to Confirmed
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 6
+Enter customer ID to view orders: 20
+
+=== List of Orders ===
+Order ID: 827
+Restaurant ID: 3
+Total Price: 5998.0
+Order Status: Confirmed
+Delivery Address: Chennai
+
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 6
+Enter customer ID to view orders: 12
+
+=== List of Orders ===
+Order ID: 655
+Restaurant ID: 2
+Total Price: 106.68
+Order Status: Pending
+Delivery Address: Peelamedu covai
+
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 7
+Enter order ID to make payment: 655
+Enter amount to pay: 106.68
+Payment successful! Order is now confirmed.
+Order status updated to Confirmed
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 6
+Enter customer ID to view orders: 12
+
+=== List of Orders ===
+Order ID: 655
+Restaurant ID: 2
+Total Price: 106.68
+Order Status: Confirmed
+Delivery Address: Peelamedu covai
+
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 7
+Enter order ID to make payment: 12
+Enter amount to pay: 106.68
+Order not found
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 7
+Enter order ID to make payment: 655
+Enter amount to pay: 106.68
+Payment successful! Order is now confirmed.
+Order status updated to Confirmed
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 8
+Exiting...
+coder@dedfaafcaf326900158dabecdccdone-0:~/project/
+coder@dedfaafcaf326900158dabecdccdone-0:~/project/
+coder@dedfaafcaf326900158dabecdccdone-0:~/project/workspace$  cd /home/coder/project/workspace ; /usr/bin/env /usr/lib/jvm/java-17-openjdk-amd64/bin/java @/tmp/cp_50y23su4rh52nkjj8kdnncha5.argfile com.examly.MainModule 
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 7
+Enter order ID to make payment: 655
+Enter amount to pay: 106.68
+This order has already been paid for.
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 7
+Enter order ID to make payment: 827
+Enter amount to pay: 5998
+This order has already been paid for.
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 7
+Enter order ID to make payment: 827
+Enter amount to pay: 99
+This order has already been paid for.
+
+=== Welcome to the Online Food Delivery System ===
+1. Register Customer
+2. Create Restaurant
+3. Create Menu Item
+4. View Restaurants
+5. Place Order
+6. View Orders
+7. Make Payment
+8. Exit
+Choose an option: 8
+Exiting...
