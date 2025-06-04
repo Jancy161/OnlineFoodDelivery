@@ -13,9 +13,9 @@ Enter customer ID to view orders: 12
 === List of Orders ===
 Order ID: 655
 Restaurant ID: 2
-Total Price: 106.68
+Total Price: 150
 Order Status: Pending
-Delivery Address: Peelamedu covai
+Delivery Address: Neyveli
 
 
 === Welcome to the Online Food Delivery System ===
@@ -28,8 +28,8 @@ Delivery Address: Peelamedu covai
 7. Make Payment
 8. Exit
 Choose an option: 7
-Enter order ID to make payment: 12
-Enter amount to pay: 106.68
+Enter order ID to make payment: 7
+Enter amount to pay: 150
 Order not found
 
 === Welcome to the Online Food Delivery System ===
@@ -43,7 +43,7 @@ Order not found
 8. Exit
 Choose an option: 7
 Enter order ID to make payment: 655
-Enter amount to pay: 106.68
+Enter amount to pay: 150
 Payment successful! Order is now confirmed.
 
 === Welcome to the Online Food Delivery System ===
@@ -57,7 +57,7 @@ Payment successful! Order is now confirmed.
 8. Exit
 Choose an option: 7
 Enter order ID to make payment: 655
-Enter amount to pay: 106.68
+Enter amount to pay: 150
 Payment successful! Order is now confirmed.
 
 === Welcome to the Online Food Delivery System ===
@@ -73,26 +73,13 @@ Choose an option: 6
 Enter customer ID to view orders: 12
 
 === List of Orders ===
-Order ID: 655
+Order ID: 5
 Restaurant ID: 2
-Total Price: 106.68
+Total Price: 150
 Order Status: Pending
-Delivery Address: Peelamedu covai
+Delivery Address: Neyveli
 
 
-=== Welcome to the Online Food Delivery System ===
-1. Register Customer
-2. Create Restaurant
-3. Create Menu Item
-4. View Restaurants
-5. Place Order
-6. View Orders
-7. Make Payment
-8. Exit
-coder@dedfaafcaf326
-coder@dedfaafcaf326                               900158dabecdccdone-                               0:~/project/workspa
-coder@dedfaafcaf326900158dabecdccdone-0:~/project/
-coder@dedfaafcaf326900158dabecdccdone-0:~/project/workspace$  cd /home/coder/project/workspace ; /usr/bin/env /usr/lib/jvm/java-17-openjdk-amd64/bin/java @/tmp/cp_50y23su4rh52nkjj8kdnncha5.argfile com.examly.MainModule 
 
 === Welcome to the Online Food Delivery System ===
 1. Register Customer
@@ -109,9 +96,9 @@ Enter customer ID to view orders: 12
 === List of Orders ===
 Order ID: 655
 Restaurant ID: 2
-Total Price: 106.68
+Total Price: 150
 Order Status: Pending
-Delivery Address: Peelamedu covai
+Delivery Address: Neyveli
 
 
 === Welcome to the Online Food Delivery System ===
@@ -152,10 +139,10 @@ No menu items available for this restaurant.
 8. Exit
 Choose an option: 3
 Enter restaurant ID to add menu item: 3
-Enter menu item name: Pasta
-Enter menu item price: 2999
-Enter menu item description: Italian Cheese pasta
-Enter available quantity: 10
+Enter menu item name: Filter coffee
+Enter menu item price: 25
+Enter menu item description: Rich aromatic brewed coffee
+Enter available quantity: 70
 Menu item created successfully!
 
 === Welcome to the Online Food Delivery System ===
@@ -173,10 +160,10 @@ Enter restaurant ID to place order: 3
 
  Menu Items
 Item ID: 4
-Name: Pasta
-Price: 2999.0
-Description: Italian Cheese pasta
-Available Quantity: 10
+Name:coffee
+Price:25
+Description:Rich aromatic brewed coffee 
+Available Quantity: 70
 
 Enter menu item ID to order: 4
 Enter quantity: 2
@@ -198,7 +185,7 @@ Enter customer ID to view orders: 20
 === List of Orders ===
 Order ID: 827
 Restaurant ID: 3
-Total Price: 5998.0
+Total Price: 25.0
 Order Status: Pending
 Delivery Address: Chennai
 
@@ -214,7 +201,7 @@ Delivery Address: Chennai
 8. Exit
 Choose an option: 7
 Enter order ID to make payment: 827
-Enter amount to pay: 5998
+Enter amount to pay: 25
 Payment successful! Order is now confirmed.
 Order status updated to Confirmed
 
@@ -233,7 +220,7 @@ Enter customer ID to view orders: 20
 === List of Orders ===
 Order ID: 827
 Restaurant ID: 3
-Total Price: 5998.0
+Total Price: 25
 Order Status: Confirmed
 Delivery Address: Chennai
 
@@ -253,9 +240,9 @@ Enter customer ID to view orders: 12
 === List of Orders ===
 Order ID: 655
 Restaurant ID: 2
-Total Price: 106.68
+Total Price: 150
 Order Status: Pending
-Delivery Address: Peelamedu covai
+Delivery Address:Neyveli
 
 
 === Welcome to the Online Food Delivery System ===
@@ -269,7 +256,7 @@ Delivery Address: Peelamedu covai
 8. Exit
 Choose an option: 7
 Enter order ID to make payment: 655
-Enter amount to pay: 106.68
+Enter amount to pay: 150
 Payment successful! Order is now confirmed.
 Order status updated to Confirmed
 
@@ -288,39 +275,13 @@ Enter customer ID to view orders: 12
 === List of Orders ===
 Order ID: 655
 Restaurant ID: 2
-Total Price: 106.68
+Total Price: 150
 Order Status: Confirmed
-Delivery Address: Peelamedu covai
+Delivery Address: Neyveli
 
 
-=== Welcome to the Online Food Delivery System ===
-1. Register Customer
-2. Create Restaurant
-3. Create Menu Item
-4. View Restaurants
-5. Place Order
-6. View Orders
-7. Make Payment
-8. Exit
-Choose an option: 7
-Enter order ID to make payment: 12
-Enter amount to pay: 106.68
-Order not found
 
-=== Welcome to the Online Food Delivery System ===
-1. Register Customer
-2. Create Restaurant
-3. Create Menu Item
-4. View Restaurants
-5. Place Order
-6. View Orders
-7. Make Payment
-8. Exit
-Choose an option: 7
-Enter order ID to make payment: 655
-Enter amount to pay: 106.68
-Payment successful! Order is now confirmed.
-Order status updated to Confirmed
+
 
 === Welcome to the Online Food Delivery System ===
 1. Register Customer
@@ -333,9 +294,6 @@ Order status updated to Confirmed
 8. Exit
 Choose an option: 8
 Exiting...
-coder@dedfaafcaf326900158dabecdccdone-0:~/project/
-coder@dedfaafcaf326900158dabecdccdone-0:~/project/
-coder@dedfaafcaf326900158dabecdccdone-0:~/project/workspace$  cd /home/coder/project/workspace ; /usr/bin/env /usr/lib/jvm/java-17-openjdk-amd64/bin/java @/tmp/cp_50y23su4rh52nkjj8kdnncha5.argfile com.examly.MainModule 
 
 === Welcome to the Online Food Delivery System ===
 1. Register Customer
@@ -348,7 +306,7 @@ coder@dedfaafcaf326900158dabecdccdone-0:~/project/workspace$  cd /home/coder/pro
 8. Exit
 Choose an option: 7
 Enter order ID to make payment: 655
-Enter amount to pay: 106.68
+Enter amount to pay: 150
 This order has already been paid for.
 
 === Welcome to the Online Food Delivery System ===
@@ -362,22 +320,10 @@ This order has already been paid for.
 8. Exit
 Choose an option: 7
 Enter order ID to make payment: 827
-Enter amount to pay: 5998
+Enter amount to pay: 25
 This order has already been paid for.
 
-=== Welcome to the Online Food Delivery System ===
-1. Register Customer
-2. Create Restaurant
-3. Create Menu Item
-4. View Restaurants
-5. Place Order
-6. View Orders
-7. Make Payment
-8. Exit
-Choose an option: 7
-Enter order ID to make payment: 827
-Enter amount to pay: 99
-This order has already been paid for.
+
 
 === Welcome to the Online Food Delivery System ===
 1. Register Customer
